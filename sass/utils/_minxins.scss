@@ -1,0 +1,7 @@
+/** Center alignment **/
+
+@mixin flex__center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
